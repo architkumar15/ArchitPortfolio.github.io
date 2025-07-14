@@ -339,8 +339,9 @@ nav {
     margin: auto;
 }
 .col-md-3 {
-    width: 28%;
+    /* width: 28%; */
     display: flex;
+    padding: 0px 30px;
 }
 .address {
     display: flex;
@@ -359,8 +360,8 @@ nav {
 }
 .tiles>span {
     margin: 15px 0 5px 0;
-    font-size: 18pt;
-    font-weight: 500;
+    /* font-size: 18pt; */
+    font-weight: bold;
 }
 .tile-content {
     font-size: 12pt;
